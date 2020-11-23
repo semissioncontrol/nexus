@@ -8,6 +8,6 @@ Reddit bot for r/NexusAuroraLounge
 
 #### Todo
 
- - [ ] Set up skeleton seed
+ - [x] Set up skeleton seed
  - [ ] Find a way to monitor a specific channel's post
  - [ ] Create post every time we get a youtube video
