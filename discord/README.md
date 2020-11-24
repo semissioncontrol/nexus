@@ -8,7 +8,7 @@ Discord bot for the Nexus Aurora Lounge Discord Server.
    
 #### Todo
 
- - [ ] Set up skeleton seed
+ - [x] Set up skeleton seed
  - [ ] Find a way to monitor a specific channel's post
  - [ ] Develop a function that can take text and send it in a specific channel
  - [ ] Link functions together to send youtube link when a new video has been posted
